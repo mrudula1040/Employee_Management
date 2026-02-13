@@ -1,0 +1,5 @@
+2026-02-13T23:23:21.529+05:30  INFO 14024 --- [employee-management-standard-projects] [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-02-13T23:23:21.545+05:30  INFO 14024 --- [employee-management-standard-projects] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-02-13T23:23:21.553+05:30  INFO 14024 --- [employee-management-standard-projects] [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2026-02-13T23:23:21.574+05:30  INFO 14024 --- [employee-management-standard-projects] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2026-02-13T23:23:21.596+05:30  INFO 14024 --- [employee-management-standard-projects] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
